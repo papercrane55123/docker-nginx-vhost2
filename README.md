@@ -98,6 +98,12 @@ $ curl http://localhost:8001
 https://blog.naver.com/mini_crane_/223365634831
 
 # Docker container deploy (ft. Jenkins)
+### 결과
+https://blog.naver.com/mini_crane_/223366543210
 
-# ref
-- https://hub.docker.com/
+https://blog.naver.com/mini_crane_/223366488911
+https://blog.naver.com/mini_crane_/223366514226 
+### ref
+- https://blog.naver.com/mini_crane_/223366488911
+- https://blog.naver.com/mini_crane_/223366514226 
+
