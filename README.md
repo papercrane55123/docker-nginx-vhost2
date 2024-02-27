@@ -94,5 +94,10 @@ $ curl http://localhost:8001
 <h1>A</h1>
 ```
 
+# nginx location 
+https://blog.naver.com/mini_crane_/223365634831
+
+# Docker container deploy (ft. Jenkins)
+
 # ref
 - https://hub.docker.com/
